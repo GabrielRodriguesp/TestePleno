@@ -1,0 +1,13 @@
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\bin\Debug\netcoreapp3.1\TestePleno.exe
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\bin\Debug\netcoreapp3.1\TestePleno.deps.json
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\bin\Debug\netcoreapp3.1\TestePleno.runtimeconfig.json
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\bin\Debug\netcoreapp3.1\TestePleno.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\bin\Debug\netcoreapp3.1\TestePleno.dll
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\bin\Debug\netcoreapp3.1\TestePleno.pdb
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\obj\Debug\netcoreapp3.1\TestePleno.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\obj\Debug\netcoreapp3.1\TestePleno.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\obj\Debug\netcoreapp3.1\TestePleno.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\obj\Debug\netcoreapp3.1\TestePleno.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\obj\Debug\netcoreapp3.1\TestePleno.dll
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\obj\Debug\netcoreapp3.1\TestePleno.pdb
+C:\Users\Gabriel\source\repos\TestePleno\TestePleno\obj\Debug\netcoreapp3.1\TestePleno.genruntimeconfig.cache
